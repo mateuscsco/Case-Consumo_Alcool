@@ -30,7 +30,7 @@ De acordo com a base de dados, existe correlação moderada entre uso de álcool
 
 Os resultados obtidos fornecem informações valiosas sobre o consumo de álcool com base nas características analisadas.
 
-Os modelos Naive Bayes Gaussiano (Gaussian Naive Bayes), Árvore de Decisão(Decision Tree) e Floresta Randômica (Random Forest) desempenharam relativamente bem na classificação dos perfis, ressaltando que o modelo Nayve Bayes Gaussiano teve uma leve vantagem nos resultados, e poderiam ser potencializados utilizando técnicas como a Validação Cruzada (cross validation).
+Os modelos Naive Bayes Gaussiano (Gaussian Naive Bayes), Árvore de Decisão(Decision Tree) e Floresta Aleatória (Random Forest) desempenharam relativamente bem na classificação dos perfis, ressaltando que o modelo Nayve Bayes Gaussiano teve uma leve vantagem nos resultados, e poderiam ser potencializados utilizando técnicas como a Validação Cruzada (cross-validation).
 
 Essas conclusões podem ser utilizadas para orientar estratégias de conscientização e políticas de saúde pública.
 
