@@ -4,7 +4,7 @@
 
 <h2>Dados:</h2>
 
-Para fins de análise, foi utilizada uma base de dados com coletada pela National Health Insurance service, na Coreia do sul com 24 características de 991346 indivíduos.
+Para fins de análise, foi utilizada uma base de dados do kaggle ([Link da Base](https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data)) coletada pela National Health Insurance service, na Coreia do sul com 24 características de 991346 indivíduos.
 
 De acordo com a base de dados, existe correlação moderada entre uso de álcool e de nicotina, um resultado esperado. 
 
