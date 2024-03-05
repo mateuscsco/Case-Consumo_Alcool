@@ -1,4 +1,4 @@
-<h1>Case-Consumo_Alcool</h1>
+<h1>Case Consumo de Álcool</h1>
 
 <b>Os efeitos fisiológicos do consumo de bebidas alcoólicas e nicotina</b>
 
